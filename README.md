@@ -1,4 +1,4 @@
-# Sheep Terrorist - exploding sheep after shearing
+# Sheep Terrorist - Exploding sheep after shearing
 A plugin for Minecraft server that adds an explosion after sheep shearing.
 
 ## Configuration file:
